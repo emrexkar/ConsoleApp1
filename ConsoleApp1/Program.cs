@@ -21,6 +21,9 @@ namespace ConsoleApp1
             Console.WriteLine("Bu satır deneme brancinde yazıldı.");
 
             Console.WriteLine("Deneme Branci");
+
+            Console.WriteLine("bu satır master brancihinde yazıldı.");
+            Console.WriteLine(".");
         }
     }
 }
