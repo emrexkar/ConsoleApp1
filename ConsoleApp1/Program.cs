@@ -14,6 +14,9 @@ namespace ConsoleApp1
             Console.ReadLine();
 
             Console.WriteLine("Commit Emre");
+            Console.ReadLine();
+
+            Console.WriteLine("Commit Samet");
         }
     }
 }
