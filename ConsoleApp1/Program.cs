@@ -18,7 +18,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("Commit Samet");
 
-            Console.WriteLine("Bu satır deneme brancinde yazıldı.");
+            Console.WriteLine("A");
+
+            Console.WriteLine("B");
         }
     }
 }
