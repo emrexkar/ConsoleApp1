@@ -20,8 +20,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Bu satır deneme brancinde yazıldı.");
 
-            Console.WriteLine("C");
-            Console.Write("D");
+            Console.WriteLine("Deneme Branci");
         }
     }
 }
